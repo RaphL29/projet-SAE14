@@ -20,4 +20,4 @@ Ce site a été codé en utilisant les technologies suivantes :
 ## Lien vers le site
 
 Vous pouvez accéder à mon site en cliquant sur le lien suivant :  
-[Visiter le site League of Legends](j'ai pas encore le lien)
+[Visiter le site League of Legends]((https://raphl29.github.io/projet-SAE14-LOL/)
