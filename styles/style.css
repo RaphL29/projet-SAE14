@@ -286,8 +286,7 @@ nav a:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
-.about-section,
-.why-play-section {
+.about-section, .why-play-section {
     margin-bottom: 40px;
 }
 
