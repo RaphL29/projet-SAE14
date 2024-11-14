@@ -108,7 +108,6 @@ h1 {
     font-weight: bold;
 }
 
-/* Lightbox for Nexus */
 .lightbox {
     display: none;
     position: fixed;
@@ -170,7 +169,6 @@ h1 {
 
 .roles {
     background-color: #070101;
-    /* Fond plus foncé pour la section des rôles */
     border-radius: 8px;
     padding: 20px;
     margin-top: 40px;
@@ -181,11 +179,9 @@ h1 {
     text-align: center;
     font-size: 2rem;
     color: #fff;
-    /* Texte clair */
     margin-bottom: 20px;
 }
 
-/* Liste des rôles */
 .roles ul {
     list-style: none;
     padding: 0;
@@ -197,27 +193,22 @@ h1 {
 
 .roles li {
     background-color: #000000;
-    /* Fond sombre pour chaque élément */
     border-radius: 10px;
     padding: 20px;
     text-align: center;
     font-size: 1.2rem;
     color: #f4f4f4;
-    /* Texte clair */
     transition: all 0.3s ease-in-out;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .roles li:hover {
     background-color: #6a6a6a;
-    /* Fond plus clair au survol */
     color: #fff;
-    /* Texte blanc au survol */
     transform: translateY(-10px);
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
 }
 
-/* Animation de l'apparition des rôles */
 .roles li {
     opacity: 0;
     transform: translateY(20px);
@@ -324,7 +315,6 @@ nav a:hover {
     text-align: center;
 }
 
-/* Animation pour le texte */
 .animated-text {
     position: relative;
     animation: fadeIn 1.5s ease-in;
@@ -342,7 +332,6 @@ nav a:hover {
     }
 }
 
-/* Pied de page */
 .footer-container {
     background-color: rgba(0, 0, 0, 0.7);
     padding: 10px;
