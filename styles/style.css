@@ -158,6 +158,10 @@ h1 {
 .character h2 {
     color: #005b99;
 }
+.character a {
+    color: #005b99;
+    text-decoration: none;
+}
 
 .character p {
     margin: 5px 0;
@@ -269,8 +273,7 @@ nav a:hover {
 
 @media (min-width: 768px) {
 
-    header,
-    footer {
+    header, footer {
         display: flex;
         justify-content: space-between;
         align-items: center;
