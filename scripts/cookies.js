@@ -10,3 +10,4 @@ function acceptCookies() {
     localStorage.setItem("cookiesAccepted", "true");
     document.getElementById("cookieBanner").style.display = "none";
 }
+
