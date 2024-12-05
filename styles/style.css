@@ -38,21 +38,22 @@ main {
 
 h1 {
     animation: fadeIn 2s ease-in-out;
+    color: #d4af37;
 }
 
 .section {
     padding: 20px;
     margin: 15px auto;
     max-width: 900px;
-    background: #2a2a4e;
+    background: #080808;
     border-radius: 10px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
 }
 
 .section h2 {
     font-size: 2em;
-    color: #ffa07a;
-    text-shadow: 0 0 5px #ffa07a;
+    color: #005b99;
+    text-shadow: 0 0 20px #ffffff;
     margin-top: 0;
 }
 
@@ -62,7 +63,7 @@ h1 {
 }
 
 .section p span {
-    color: #ffa07a;
+    color: #0099ff;
     font-weight: bold;
 }
 
@@ -75,7 +76,7 @@ h1 {
 .flex-item {
     flex: 1;
     min-width: 250px;
-    background: #37375b;
+    background: #1a1a1d;
     padding: 15px;
     border-radius: 8px;
     position: relative;
