@@ -379,7 +379,6 @@ footer p {
     overflow: hidden;
 }
 
-/* Style for the character cards */
 .characters {
     display: flex;
     flex-wrap: wrap;
@@ -418,6 +417,11 @@ footer p {
     transform: translateY(-10px);
 }
 
+.character-card a {
+    color: #d4af37;
+    text-decoration: none;
+}
+
 .trailer-section {
     display: flex;
     justify-content: center;
@@ -428,7 +432,7 @@ footer p {
 
 .trailer-section video {
     max-width: 100%;
-    width: 80%; 
+    width: 80%;
     border-radius: 10px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
 }
@@ -464,7 +468,6 @@ footer p {
     transform: scale(1.05);
 }
 
-/* Section titles */
 main h2 {
     color: #d4af37;
     text-align: center;
